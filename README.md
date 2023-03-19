@@ -1,4 +1,4 @@
-# Fintech-Challange-Module-7
+# Fintech-ETF Tracker
 
 **Version 1.0.0**
 
